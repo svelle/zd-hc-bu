@@ -1,0 +1,17 @@
+{
+  "source": {
+    "zendesk_api_token": "YOUR_SOURCE_API_TOKEN_HERE",
+    "zendesk_user_email": "your_source_email@example.com",
+    "zendesk_subdomain": "https://your-source-subdomain.zendesk.com"
+  },
+  "target": {
+    "zendesk_api_token": "YOUR_TARGET_API_TOKEN_HERE",
+    "zendesk_user_email": "your_target_email@example.com",
+    "zendesk_subdomain": "https://your-target-subdomain.zendesk.com"
+  },
+  "backup_folder": "backup",
+  "language": "en-us",
+  "section_id": null,
+  "permission_group_id": null,
+  "user_segment_id": null
+}

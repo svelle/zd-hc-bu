@@ -1,6 +1,5 @@
 import os
 import requests
-from bs4 import BeautifulSoup
 
 def normalize_url(url):
     """Remove trailing slashes from URLs"""

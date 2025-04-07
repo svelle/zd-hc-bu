@@ -20,7 +20,7 @@ A utility for backing up and restoring Zendesk help center articles.
 
 2. Install dependencies:
    ```
-   pip install requests beautifulsoup4
+   pip install requests
    ```
 
 3. Configure the tool:
